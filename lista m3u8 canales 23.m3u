@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:-1,Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
+
+#EXTINF:-1,Magic Kids
+https://live.admefy.com/live/default/clean_peach_ef224.m3u8
+
+
+#EXTINF:-1,Paka Paka
+http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1937929753.m3u8
+
+
+#EXTINF:-1,Nick Clasic
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=cb454f6a-57fe-44d0-a643-47d6a877a025&userId=&serverSideAds=true
+
+
+#EXTINF:-1,Canal 13/9
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Gen tv
+https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Telefe Rosarios 1 
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Telefe Rosarios 2
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,el nueve temporal
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CukEkzQhWp35aAnaLOoiKDunYX6Om8xkU9ShiY5ESl04P897_PQPuwGoW0wIuAC2-_VH1vKHTD07ncw_Niz4HoMmze-k-oY9nHySGc5nOEiyNJXO_rZdfJMV9VQQ_X81RcXMejqQxpEDYpmZU2efaYQuh5GbCVpTI-u6W1h3HS2Z2fAzRWGlSOYBSmjJx1s0T9gZ5mDEP8O8QeaZw2Xmw1ZCQChuMWLWq4_ZlgQUh5zsezY6CwgMgAszxYMnWTcpeSvuHSaeadZit4zyDaDUTuU3tliNgTZvCpDTZRkJku5K4CztteVROpt4WVyh4HsTEDMIgRHXh6VkOcLHKOESRyYeAn3IsG27TGu23y9egfNTbL48DfUQwlvLIKTiazwK7vBe0DDxw676Ln6QLbC0e0p4L9QOtzHoR1Wf8g4TKoldVV4XIiLUsJjuCx0McfdFFZ3BwgfyHrQisEHGugeNmAlQJp0HWD8B0iKFqHYc-H5eHy8uiZH7LNdxUjoAFYo9VKJn7RiJJUElOdaE2lkX_0kW_-olslrgJTYH9yb7ONgPg8hZNtN0RezUDeWrPmY7TfEdDV03dz9Pyiwm4BVgm6N8SSRYwzL70cGWovQTtpGFjRDnOXTpFJ74CggtZ-0JgHTonky17FjvSPnIKdi3JxFiioubDgqkFW-__fbKmJzQWt1f2QaT_5lyV_DGYJsfaQ_BWPSJp5h4lWK8SsDTH1xkdHkmyI4SlhXLSRwjXykxAFMkoeX9oCxeqU8iuaEfYJF4JUufNELI43dM1012l-DI2nuUBj-LIERoroiJpzSOKYOJHMNSyHrwtEkSEFviLXPM6b1dYt_kl-UgMZwaDPQ1FAs_eduRLdBn5A.m3u8
